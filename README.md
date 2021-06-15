@@ -1,13 +1,14 @@
 # Hi there 👋 
 ## My name is Fedor and I'm a beginner *Front-end developer* from Saint-Petersburg.
 ### Languages and Technologies
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&lgo=JavaScript)
-![React](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&lgo=React)
-![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&lgo=Redux)
-![API](https://img.shields.io/badge/-REST&#032-090909?style=for-the-badge)
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&lgo=html5)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&lgo=css3)
-![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&lgo=scss)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+![React](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
+![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
+![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=scss)
+![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=scss)
 ### ✉ Mail me: fediliv@gmail.com
 
 
