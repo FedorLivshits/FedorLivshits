@@ -2,7 +2,7 @@
 ## *Front-end developer* from Saint-Petersburg.
 ### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
-![TypeSript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeSript)
+![TypeSript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![React](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
 ![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
