@@ -9,6 +9,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![SCSS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass)
+![styled-components](https://img.shields.io/badge/-styled-components-090909?style=for-the-badge&logo=styled-components)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 ### ✉ Mail me: fediliv@gmail.com
 
