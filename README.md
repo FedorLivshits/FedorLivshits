@@ -10,6 +10,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![SCSS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass)
 ![styled-components](https://img.shields.io/badge/-STYLEDCOMPONENTS-090909?style=for-the-badge&logo=styledComponents)
+![bootstrap](https://img.shields.io/badge/-BOOTSTRAP-090909?style=for-the-badge&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 ### ✉ Mail me: fediliv@gmail.com
 
