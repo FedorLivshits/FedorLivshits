@@ -1,7 +1,7 @@
-# Меня зовут Федор Лившиц👋 
-## Я *Фронтенд-разработчик* из Санкт-Петербурга.
-## *Мое портфолио:* https://fedor-livshits-portfolio.vercel.app
-### Мой основной стэк технологий:
+# Theodore Livshits 
+## *Frontend developer*
+## *Portfolio:* https://fedor-livshits-portfolio.vercel.app
+### Main stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![TypeSript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
@@ -13,9 +13,8 @@
 ![styled-components](https://img.shields.io/badge/-STYLEDCOMPONENTS-090909?style=for-the-badge&logo=styledComponents)
 ![bootstrap](https://img.shields.io/badge/-BOOTSTRAP-090909?style=for-the-badge&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
-### Почта: fediliv@gmail.com
+### Mail: fediliv@gmail.com
 ### Telegram: https://t.me/FedorLivshits
-### Vk: https://vk.com/fedorlivshits
 
 
 <!--
