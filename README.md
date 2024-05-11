@@ -1,18 +1,12 @@
 # Theodore Livshits 
-## *Frontend developer*
-## *Portfolio:* https://fedor-livshits-portfolio.vercel.app
+## *Software developer*
 ### Main stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![TypeSript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
-![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
-![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
-![SCSS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass)
-![styled-components](https://img.shields.io/badge/-STYLEDCOMPONENTS-090909?style=for-the-badge&logo=styledComponents)
-![bootstrap](https://img.shields.io/badge/-BOOTSTRAP-090909?style=for-the-badge&logo=bootstrap)
-![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
+![React](https://img.shields.io/badge/-node.js-090909?style=for-the-badge&logo=node.js)
+![NodeJS](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js)
+![AWS](https://img.shields.io/badge/-AWS-090909?style=for-the-badge&logo=amazon-aws)
+### LinkedIn: https://www.linkedin.com/in/theodore-livshits
 ### Mail: fediliv@gmail.com
 ### Telegram: https://t.me/FedorLivshits
 
